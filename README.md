@@ -116,7 +116,7 @@ This is primarily a UI/frontend project focusing on the user interface and exper
 
 ## 👨‍💻 Author
 
-Created by [Your Name/Team]
+**Muhammad Mudassar**
 
 ## 📄 License
 
